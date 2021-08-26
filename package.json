@@ -10,6 +10,13 @@
     "lint": "ng lint --fix",
     "e2e": "ng e2e"
   },
+  "keywords": [
+      "angular",
+      "angular8",
+      "fabricjs",
+      "canvas",
+      "rxjs"
+  ],
   "private": true,
   "dependencies": {
     "@angular/animations": "~8.2.14",
